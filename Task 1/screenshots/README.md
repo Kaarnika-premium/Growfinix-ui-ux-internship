@@ -73,15 +73,6 @@ Richard is an event manager responsible for handling customer requirements and d
 - Pain Point Analysis
 - Opportunity Identification
 - Flowchart Design
-## Screenshots
-![Persona 1](screenshots/task1-persona1.jpg)
-![Persona 2](screenshots/task1-persona2.jpg)
-
-![Journey 1](screenshots/task1-journey1.jpg)
-![Journey 2](screenshots/task1-journey2.jpg)
-
-![Flowchart](screenshots/task1-flowchart.jpg)
-![Overview](screenshots/event-overview.jpg)
 ## Figma Link
 https://www.figma.com/board/R4q53CK99dJ8Yl1yNNbejC/task-1?node-id=0-1&t=1czF2OBdvC4V7fWo-1
 ## Author
